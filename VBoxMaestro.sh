@@ -1,5 +1,4 @@
 #!/bin/bash
-#
 # VBoxManager bash script handler
 
 command=$1
