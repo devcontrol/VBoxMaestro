@@ -40,7 +40,8 @@ case "$command" in
 		do
 			echo "Saving Maschine: $runningMachines"
 			VBoxManage controlvm $runningMachines savestate
-			echo "DONE; \n"
+			echo "DONE;"
+			echo ""
 		done
 
 	;;
