@@ -1,6 +1,5 @@
 #!/bin/bash
-#
-# VBoxManager bash script handler
+#VBoxManager bash script handler
 
 command=$1
 server="${@:2}"
